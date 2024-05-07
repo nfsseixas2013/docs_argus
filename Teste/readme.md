@@ -10,4 +10,4 @@ Link para o curso: [https://www.youtube.com/watch?v=JbfWz9gFv5A&list=PLxatknzLa1
 
 [Criar Template](ProxMox/criando_template.md)
 
-[Snapshot](ProxMox/snapshot.md)
+[Snapshot](ProxMox/Snapshot.md)
